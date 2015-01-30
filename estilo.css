@@ -8,17 +8,12 @@ body{
 menu{
   margin-left:10px;
 
-  width:250px;
-  height:100px;
+  width:auto;
+  height:auto;
   overflow:auto;
 
   font-family:Airal;
   font-size:14;
   font-weight:bold;
-  <style>
-  a{text-decoration:none;}
-  a:link{color:white;}
-  a:visited{color:white;}
-  a:hover{font-size:16;}
-  </style>
+  
 }
