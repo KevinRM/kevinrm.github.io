@@ -1,9 +1,15 @@
 body{
+
   margin-left:10%;
   margin-right:10%;
   margin-top:30px;
   margin-bottom:20px;
+
+  background-image:/imagenes(Fondo1.jpg);
+  background-attachment:fixed;
+  background-repeat:repeat;  
   }
+
 dl{
 
   width:185;
