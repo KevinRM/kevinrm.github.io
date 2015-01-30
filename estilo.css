@@ -5,11 +5,13 @@ body{
   margin-bottom:20px;
   }
 dl{
-  margin-left:5px;
 
-  width:160;
+  width:200;
   height:auto;
+  padding:2px;
   overflow:auto;
+  line-height:2px;
+
   border-color:black;
   border-style:solid;
   background:#424242;
