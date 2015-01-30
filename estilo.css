@@ -7,11 +7,12 @@ body{
   }
 menu{
   margin-left:10px;
+
   width:250px;
   height:100px;
-  overflow:auto
+  overflow:auto;
+
   font-family:Airal;
   font-size:14;
-  <style>a{text-decoration:none}</style>;
-  
+  font-weight:bold;
 }
