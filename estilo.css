@@ -6,12 +6,12 @@ body{
 
   }
 menu{
-  margin-left:10px;
+  /*margin-left:10px;*/
 
   width:150;
   height:100;
   overflow:auto;
-  border-width:3px;
+  border-width:2px;
   border-color:black;
   border-style:solid;
   background:grey;
