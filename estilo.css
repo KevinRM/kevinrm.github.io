@@ -13,7 +13,9 @@ menu{
   overflow:auto;
 
   font-family:Airal;
-  color:white;
   font-size:14;
-  /*font-weight:bold;*/
+  font-weight:bold;
+  a:link{color:white;}
+  a:visited{color:white;}
+  a:hover{font-size:16;}
 }
