@@ -1,0 +1,23 @@
+body{
+  margin-left:10%;
+  margin-right:10%;
+  margin-top:30px;
+  margin-bottom:20px;
+
+  }
+menu{
+  margin-left:10px;
+
+  width:250px;
+  height:100px;
+  overflow:auto;
+
+  font-family:Airal;
+  font-size:14;
+  font-weight:bold;
+  <style>
+  a:link{color:white;}
+  a:visited{color:white;}
+  a:hover{font-size:16;}
+  </style>
+}
