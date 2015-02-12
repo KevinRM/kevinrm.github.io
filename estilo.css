@@ -12,8 +12,9 @@ body{
   }
 
 #menu{
-  align=center;
-/*dl{*/
+  align:center;
+}
+dl{
 
   width:185;
   height:auto;
@@ -29,5 +30,4 @@ body{
   font-family:Airal;
   font-size:14;
   font-weight:bold;
-
 }
