@@ -11,6 +11,8 @@ body{
 
   }
 
+#menu{
+  align=center;
 dl{
 
   width:185;
@@ -28,4 +30,5 @@ dl{
   font-size:14;
   font-weight:bold;
 
+}
 }
